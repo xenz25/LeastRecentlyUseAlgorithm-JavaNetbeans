@@ -6,5 +6,13 @@ The project interface was designed using Java Netbeans and The Algorithm was ori
 # Developers
 > Project Leader:
 - Zian Jolo M. Catacutan
-- >Team Members
+> Team Members
+
+
+# Sample Interface
+- Default View
+> ![alt text](https://github.com/xenz25/LeastRecentlyUseAlgorithm-JavaNetbeans/blob/main/Interface/Home%20View.jpg?raw=true)
+
+- With Table
+> ![alt text](https://github.com/xenz25/LeastRecentlyUseAlgorithm-JavaNetbeans/blob/main/Interface/Computed%20View.jpg?raw=true)
 
