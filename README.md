@@ -7,6 +7,10 @@ The project interface was designed using Java Netbeans and The Algorithm was ori
 > Project Leader:
 - Zian Jolo M. Catacutan
 > Team Members
+- Cystal Marie P. Culilap
+- Hershey Anne V. Dataro
+- Ronie P. De Jesus
+- Hannah Mae B. Dela Cruz
 
 
 # Sample Interface
